@@ -1,3 +1,3 @@
 # WQU_Capstone
-Capstone
-So let's start 
+
+How to deploy these on the 
