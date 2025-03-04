@@ -17,4 +17,21 @@ This project evaluates **machine learning and deep learning models** for **stock
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+2. **Install Required Packages:**
+pip install -r requirements.txt
 
+3. **📂 Capstone_Project**
+│── 📁 Codebase/                 # Jupyter Notebooks for EDA & Modeling &  ML/DL models.
+│── 📁 Dataset/                  # Historical Market Data.
+│── 📁 Output/                   # Backtesting Output Comparison.
+│── 📁 Result/                   # Results w.r.t Accuracy , Return , Trading .
+│── 📝 Capstone_Paper.pdf        # Research Paper.
+│── 📜 LICENSE                   # Open-source license.
+│── 📜 README.md                 # Project documentation.
+│── 📜 requirements.txt          # Python dependencies.
+
+
+4. **Contributors:**
+   i. Dachawar Shrinivas Kamalkishor (shrid12@yahoo.com).
+   ii.Mai Duc Toan (maiductoan130298@gmail.com).
+   iii.Assem Atallah (assembassel@gmail.com).
